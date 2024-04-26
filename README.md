@@ -1,4 +1,4 @@
-<h1>Richard Oliveira</h1>
+<h1>Richard Oliveira (Doomsday)</h1>
 
 <h2>👨‍💼 About Me</h2>
 
