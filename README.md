@@ -11,8 +11,7 @@
 <h2>💪 Hard Skills</h2>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="CSS 3" src="https://img.shields.io/badge/CSS%203-black?style=plastic&logo=css3&labelColor=3494bb"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img alt="HTML 5" src="https://img.shields.io/badge/HTML%205-black?style=plastic&logo=html5&logoColor=white&labelColor=3494bb">
-</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img alt="HTML 5" src="https://img.shields.io/badge/HTML%205-black?style=plastic&logo=html5&logoColor=white&labelColor=3494bb"></a>
 <a href="https://www.python.org"><img alt="Python" src="https://img.shields.io/badge/Python-black?style=plastic&logo=python&logoColor=white&labelColor=3494bb"></a>
 <a href="https://dart.dev/"><img alt="Dart" src="https://img.shields.io/badge/Dart-black?style=plastic&logo=dart&logoColor=white&labelColor=3494bb"></a>
 
