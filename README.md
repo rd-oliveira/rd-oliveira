@@ -14,6 +14,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img alt="HTML 5" src="https://img.shields.io/badge/HTML%205-black?style=plastic&logo=html5&logoColor=white&labelColor=3494bb">
 </a>
 <a href="https://www.python.org"><img alt="Python" src="https://img.shields.io/badge/Python-black?style=plastic&logo=python&logoColor=white&labelColor=3494bb"></a>
+<a href="https://dart.dev/"><img alt="Dart" src="https://img.shields.io/badge/Dart-black?style=plastic&logo=dart&logoColor=white&labelColor=3494bb"></a>
 
 <a href="https://www.construct.net/en"><img alt="Construct 3" src="https://img.shields.io/badge/Construct%203-black?style=plastic&logo=construct3&logoColor=white&labelColor=3494bb"></a>
 <a href="https://gdevelop.io/"><img alt="GDevelop 5" src="https://img.shields.io/badge/GDevelop%205-3494bb?style=plastic&logoColor=white"></a>
